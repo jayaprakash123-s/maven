@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World.com!</h2>
+<h2>Hello World.com.yml!</h2>
 </body>
 </html>
